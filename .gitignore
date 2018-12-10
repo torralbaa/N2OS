@@ -1,0 +1,10 @@
+# Object files
+*.o
+*.ko
+
+# Linker output
+*.map
+
+# Executables
+*.out
+*.elf
